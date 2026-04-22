@@ -110,7 +110,7 @@
 - 克隆项目
 ```bash
 
-git clone https://github.com/lhh737/LangChain-ReAct-Agent.git
+https://github.com/ShaoShan1226/Intencified-React-Agent.git
 ```
 - 安装依赖
 ```bash
